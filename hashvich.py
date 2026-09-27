@@ -35,4 +35,4 @@ elif yntrutyun == "6":
 else:
     result = "sxal yntrutyun"
 
-print(str(result) + "aha dzer xndiri lucumy:   ")
+print( "aha dzer xndiri lucumy:   " +  str(result) )
